@@ -18,7 +18,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/Kybyto/kyto-clothes-website.git
+git clone git@github.com:KyByto/Kyto-Clothes-Website-Home.git
 Navigate to the project directory:
 
 bash
