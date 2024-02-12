@@ -18,22 +18,17 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/your-username/kyto-clothes-website.git
+git clone https://github.com/Kybyto/kyto-clothes-website.git
 Navigate to the project directory:
 
 bash
 Copy code
 cd kyto-clothes-website
 Install the necessary dependencies:
-
-bash
-Copy code
 npm install
 Start the development server:
 
-bash
-Copy code
-npm start
+
 This will launch the website in your default web browser.
 
 Contributing
